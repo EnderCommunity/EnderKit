@@ -21,3 +21,5 @@ echo -e "\n\e[34m[EnderKit]\e[0m Running Mach Bootstrap"
 ./mach bootstrap
 echo -e "\n\e[34m[EnderKit]\e[0m Running Cat Mozconfig"
 cat mozconfig
+
+#rm -rf dir
